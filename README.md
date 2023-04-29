@@ -1,6 +1,7 @@
 # GraphCreator
 IT project, 4th term. Generating graphs from a description provided by the user
 
+ВАЖНО: Для скачивания необходим только файл main.py.
 Даная программа может создавать граф по его описанию, которое вводит пользователь. Программа может создавать:
 1) Деревья с фиксированным количеством листьев или вершин
 2) Графы с различным количетвом компонент связности
@@ -25,3 +26,4 @@ IT project, 4th term. Generating graphs from a description provided by the user
 <img width="1512" alt="example3" src="https://user-images.githubusercontent.com/120779543/235300134-8cb4c4d3-7326-4146-b3ba-81600f9d2861.png">
 4) Пустой граф:
 <img width="1512" alt="example4" src="https://user-images.githubusercontent.com/120779543/235300141-6a19844d-f78b-4b8c-99bd-2c19d477a7e1.png">
+
