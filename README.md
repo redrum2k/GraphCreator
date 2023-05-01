@@ -27,3 +27,7 @@ IT project, 4th term. Generating graphs from a description provided by the user
 4) Пустой граф:
 <img width="1512" alt="example4" src="https://user-images.githubusercontent.com/120779543/235300141-6a19844d-f78b-4b8c-99bd-2c19d477a7e1.png">
 
+ОТЗЫВ ТЕСТЕРА (Михаила Загороднюка):
+
+В целом, код работает согласно заявленным условиям. Есть незначительные баги, такие как неправильное восприятие текста.
+NOTDerwes
